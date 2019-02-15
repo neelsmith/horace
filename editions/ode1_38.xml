@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Horace, Ode 1.38</title>
+        <author>Quintus Horatius Flaccus</author>
+        <editor>Michael Raheb</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitally published through Holy Cross' Manuscripts, Inscriptions,
+          and Documents Club (HCMID)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from The Latin Library online</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+    <div n="1.38">
+<l n="1"><rs type ="ethnic" urn="urn:cite2:hmt:ls.markdown:n35436">Persicos</rs> odi, puer, apparatus,</l>
+<l n="2">displicent nexae philyra coronae,</l>
+<l n="3">mitte sectari, rosa quo locorum</l>
+<l n="4">sera moretur.</l>
+<l n="5">Simplici myrto nihil adlabores</l>
+<l n="6">sedulus, curo: neque te ministrum</l>
+<l n="7">dedecet myrtus neque me sub arta</l>
+<l n="8">vite bibentem.</l>
+    </div>
+  </body>
+</text>
+</TEI>
