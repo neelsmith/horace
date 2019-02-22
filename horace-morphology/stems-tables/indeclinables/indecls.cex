@@ -1,2 +1,4 @@
-StemUrn#LexicalEntity#Stem#PoS
-pliny.indecl1#lexent.tbd#cum#conjunct
+StemUrn#LexicalEntity#Stem#InflClass
+
+horacemorph.indecl1#ls.n45746#sub#indeclprep
+horacemorph.indecl2#ls.n30776#neque#indeclconj
