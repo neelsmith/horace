@@ -1,0 +1,12 @@
+StemUrn#LexicalEntity#String#Person#Number#Tense#Mood#Voice
+
+horacemorph.irrvdedecet1#ls.n12607#dedecet#3rd#sg#pres#indic#act
+horacemorph.irrvdedecet2#ls.n12607#dedecebat#3rd#sg#impft#indic#act
+horacemorph.irrvdedecet3#ls.n12607#dedecet#3rd#sg#fut#indic#act
+horacemorph.irrvdedecet4#ls.n12607#dedecuit#3rd#sg#pft#indic#act
+horacemorph.irrvdedecet5#ls.n12607#dedecuerat#3rd#sg#plupft#indic#act
+horacemorph.irrvdedecet6#ls.n12607#dedecuerit#3rd#sg#futpft#indic#act
+horacemorph.irrvdedecet7#ls.n12607#dedeceat#3rd#sg#pres#subj#act
+horacemorph.irrvdedecet8#ls.n12607#dedeceret#3rd#sg#impft#subj#act
+horacemorph.irrvdedecet9#ls.n12607#dedecuerit#3rd#sg#pft#subj#act
+horacemorph.irrvdedecet10#ls.n12607#dedecuisset#3rd#sg#plupft#subj#act
