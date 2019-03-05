@@ -7,9 +7,9 @@ import better.files._
 import java.io.{File => JFile}
 import better.files.Dsl._
 
-val compiler = "/usr/bin/fst-compiler-utf8"
-val fstinfl = "/usr/bin/fst-infl"
-val make = "/usr/bin/make"
+val compiler = "/usr/local/bin/fst-compiler-utf8"
+val fstinfl = "/usr/local/bin/fst-infl"
+val make = "/usr/local/bin/make"
 
 
 def guide : Unit = {
