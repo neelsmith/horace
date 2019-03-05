@@ -1,7 +1,0 @@
-Directory for irregular gerundive forms.
-
-Example:
-
-
-    Rule#LexicalEntity#Form#Gender#Case#Number
-    proof.irrigrdv1#lexent.n15868#eundarum#fem#gen#pl

@@ -1,1 +1,0 @@
-"src/stems/lemmas.lex"
