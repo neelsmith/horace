@@ -1,7 +1,7 @@
 # Horace
 A repository used for parsing digital Latin corpora from Horace, with functionality for multiple machines from Docker.
 
-## Using `tabulae` with This repository
+## Using `tabulae` with This Repository
 
 ### Prerequisites
 - Download or clone this repository to your desktop
