@@ -3,11 +3,11 @@
 <ivy-report version="1.0">
 	<info
 		organisation="default"
-		module="workspace_2.12"
+		module="horace_2.12"
 		revision="0.1.0-SNAPSHOT"
-		conf="provided"
+		conf="pom"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190305125118"/>
+		date="20190304205817"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
