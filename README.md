@@ -1,5 +1,5 @@
 # Horace
-A repository used for parsing digital Latin corpora from Horace, with functionality for multiple machines from Docker.
+A repository used for parsing digital Latin corpora from Horace, with functionality for multiple machine-operators from Docker.
 
 ## Using `tabulae` with This Repository
 
