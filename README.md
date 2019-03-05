@@ -24,6 +24,7 @@ A repository used for parsing digital Latin corpora from Horace, with functional
 
 ### Using `tabulae` Within the Docker Session
 - Put the corpus you want to parse into a file (preferably .txt) in the `editions` repository
-- Run `:load scripts/parse.sc`
+- Run `:load scripts/win_parse.sc` for Windows
+- Run `:load scripts/mac_parse.sc` for Mac
 - Run `compile("horace-morphology")`
-- Follow the guidelines in `parse.sc` for more information about how to work with the parser
+- Follow the guidelines in the script for more information about how to work with the parser
