@@ -10,7 +10,7 @@ A repository used for parsing digital Latin corpora from Horace, with functional
 - Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Windows 10 Pro
 - Download [Docker Toolbox](https://docs.docker.com/toolbox/) for Mac or Windows 10
 
-### Starting, Stopping, and Resuming Chris Blackwell's Docker App
+### Starting, Stopping, and Resuming [Chris Blackwell's Docker App](https://github.com/Eumaeus/sbt-sfst-docker)
 `sbt-sfst-docker` provides the `sfst` toolkit that `tabulae` uses and starts an `sbt` console in your current directory. Follow the instructions on the docker app's README or run these commands by copying and pasting them into a terminal in this directory:
 - Initial installation: `docker run --name citeWork -ti -v $(pwd):/workspace eumaeus/sbt-sfst-docker:v3`
   - You may need to manually write the path to this repository instead of using `$(pwd)`
