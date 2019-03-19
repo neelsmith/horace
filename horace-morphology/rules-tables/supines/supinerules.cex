@@ -1,26 +1,26 @@
 RuleUrn#InflectionClass#Ending#Case
 
-horacemorph.conj1sup1#conj1#atum#acc
-horacemorph.conj1sup2#conj1#atu#abl
-horacemorph.c1pressup1#c1pres#atum#acc
-horacemorph.c1pressup2#c1pres#atu#abl
+horacemorph.verbinfl_conj1sup1#conj1#atum#acc
+horacemorph.verbinfl_conj1sup2#conj1#atu#abl
+horacemorph.verbinfl_c1pressup1#c1pres#atum#acc
+horacemorph.verbinfl_c1pressup2#c1pres#atu#abl
 
-horacemorph.conj2sup1#conj2#itum#acc
-horacemorph.conj2sup2#conj2#itu#abl
-horacemorph.c2pressup1#c2pres#itum#acc
-horacemorph.c2pressup2#cc2pres#itu#abl
+horacemorph.verbinfl_conj2sup1#conj2#itum#acc
+horacemorph.verbinfl_conj2sup2#conj2#itu#abl
+horacemorph.verbinfl_c2pressup1#c2pres#itum#acc
+horacemorph.verbinfl_c2pressup2#cc2pres#itu#abl
 
-horacemorph.conj3sup1#conj3#tum#acc
-horacemorph.conj3sup2#conj3#tu#abl
-horacemorph.c3pressup1#c3pres#tum#acc
-horacemorph.c3pressup2#c3pres#tu#abl
+horacemorph.verbinfl_conj3sup1#conj3#tum#acc
+horacemorph.verbinfl_conj3sup2#conj3#tu#abl
+horacemorph.verbinfl_c3pressup1#c3pres#tum#acc
+horacemorph.verbinfl_c3pressup2#c3pres#tu#abl
 
-horacemorph.conj3iosup1#conj3io#tum#acc
-horacemorph.conj3iosup2#conj3io#tu#abl
-horacemorph.c3iopressup1#c3iopres#tum#acc
-horacemorph.c3iopressup2#c3iopres#tu#abl
+horacemorph.verbinfl_conj3iosup1#conj3io#tum#acc
+horacemorph.verbinfl_conj3iosup2#conj3io#tu#abl
+horacemorph.verbinfl_c3iopressup1#c3iopres#tum#acc
+horacemorph.verbinfl_c3iopressup2#c3iopres#tu#abl
 
-horacemorph.conj4sup1#conj4#itum#acc
-horacemorph.conj4sup2#conj4#itu#abl
-horacemorph.c4pressup1#c4pres#itum#acc
-horacemorph.c4pressup2#c4pres#itu#abl
+horacemorph.verbinfl_conj4sup1#conj4#itum#acc
+horacemorph.verbinfl_conj4sup2#conj4#itu#abl
+horacemorph.verbinfl_c4pressup1#c4pres#itum#acc
+horacemorph.verbinfl_c4pressup2#c4pres#itu#abl

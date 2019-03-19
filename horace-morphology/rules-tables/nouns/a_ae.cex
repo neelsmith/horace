@@ -1,14 +1,14 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 
-horacemorph.a_ae1#a_ae#a#fem#nom#sg
-horacemorph.a_ae2#a_ae#ae#fem#gen#sg
-horacemorph.a_ae3#a_ae#ae#fem#dat#sg
-horacemorph.a_ae4#a_ae#am#fem#acc#sg
-horacemorph.a_ae5#a_ae#a#fem#abl#sg
-horacemorph.a_ae6#a_ae#ae#fem#nom#pl
-horacemorph.a_ae7#a_ae#arum#fem#gen#pl
-horacemorph.a_ae8#a_ae#is#fem#dat#pl
-horacemorph.a_ae9#a_ae#as#fem#acc#pl
-horacemorph.a_ae10#a_ae#is#fem#abl#pl
-horacemorph.a_ae11#a_ae#a#fem#voc#sg
-horacemorph.a_ae12#a_ae#ae#fem#voc#pl
+horacemorph.nouninfl_a_ae1#a_ae#a#fem#nom#sg
+horacemorph.nouninfl_a_ae2#a_ae#ae#fem#gen#sg
+horacemorph.nouninfl_a_ae3#a_ae#ae#fem#dat#sg
+horacemorph.nouninfl_a_ae4#a_ae#am#fem#acc#sg
+horacemorph.nouninfl_a_ae5#a_ae#a#fem#abl#sg
+horacemorph.nouninfl_a_ae6#a_ae#ae#fem#nom#pl
+horacemorph.nouninfl_a_ae7#a_ae#arum#fem#gen#pl
+horacemorph.nouninfl_a_ae8#a_ae#is#fem#dat#pl
+horacemorph.nouninfl_a_ae9#a_ae#as#fem#acc#pl
+horacemorph.nouninfl_a_ae10#a_ae#is#fem#abl#pl
+horacemorph.nouninfl_a_ae11#a_ae#a#fem#voc#sg
+horacemorph.nouninfl_a_ae12#a_ae#ae#fem#voc#pl

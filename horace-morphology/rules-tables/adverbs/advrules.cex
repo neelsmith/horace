@@ -1,8 +1,8 @@
 RuleUrn#InflectionClasses#Ending#Degree
-advinfl.us_a_um1#us_a_um#e#pos
-advinfl.us_a_um2#us_a_um#ius#pos
-advinfl.us_a_um3#us_a_um#issime#pos
+horacemorph.advinfl_us_a_um1#us_a_um#e#pos
+horacemorph.advinfl_us_a_um2#us_a_um#ius#pos
+horacemorph.advinfl_us_a_um3#us_a_um#issime#pos
 
-advinfl.ex_icis1#ex_icis#iciter#pos
-advinfl.ex_icis2#ex_icis#icius#pos
-advinfl.ex_icis3#ex_icis#icissime#pos
+horacemorph.advinfl_ex_icis1#ex_icis#iciter#pos
+horacemorph.advinfl_ex_icis2#ex_icis#icius#pos
+horacemorph.advinfl_ex_icis3#ex_icis#icissime#pos

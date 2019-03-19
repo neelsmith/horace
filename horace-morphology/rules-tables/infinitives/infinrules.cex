@@ -1,33 +1,33 @@
 RuleUrn#InflectionClass#Ending#Tense#Voice
-horacemorph.are_inf1#conj1#are#pres#act
-horacemorph.are_inf2#conj1#ari#pres#pass
-horacemorph.are_inf3#conj1#avisse#pft#act
-horacemorph.are_inf3b#conj1#asse#pres#act
-horacemorph.are_inf4#c1pres#are#pres#act
-horacemorph.are_inf5#c1pres#ari#pres#pass
+horacemorph.infinfl_are1#conj1#are#pres#act
+horacemorph.infinfl_are2#conj1#ari#pres#pass
+horacemorph.infinfl_are3#conj1#avisse#pft#act
+horacemorph.infinfl_are3b#conj1#asse#pres#act
+horacemorph.infinfl_are4#c1pres#are#pres#act
+horacemorph.infinfl_are5#c1pres#ari#pres#pass
 
-horacemorph.ere_inf1#conj2#ere#pres#act
-horacemorph.ere_inf2#conj2#eri#pres#pass
-horacemorph.ere_inf3#conj2#uisse#pft#act
-horacemorph.ere_inf4#c2pres#ere#pres#act
-horacemorph.ere_inf5#c2pres#eri#pres#pass
+horacemorph.infinfl_ere1#conj2#ere#pres#act
+horacemorph.infinfl_ere2#conj2#eri#pres#pass
+horacemorph.infinfl_ere3#conj2#uisse#pft#act
+horacemorph.infinfl_ere4#c2pres#ere#pres#act
+horacemorph.infinfl_ere5#c2pres#eri#pres#pass
 
-horacemorph.ere3_inf1#conj3#ere#pres#act
-horacemorph.ere3_inf2#conj3#i#pres#pass
-horacemorph.ere3_inf3#conj3#isse#pft#act
-horacemorph.ere3_inf4#c3pres#ere#pres#act
-horacemorph.ere3_inf5#c3pres#i#pres#pass
+horacemorph.infinfl_3ere1#conj3#ere#pres#act
+horacemorph.infinfl_3ere2#conj3#i#pres#pass
+horacemorph.infinfl_3ere3#conj3#isse#pft#act
+horacemorph.infinfl_3ere4#c3pres#ere#pres#act
+horacemorph.infinfl_3ere5#c3pres#i#pres#pass
 
-horacemorph.ereio_inf1#conj3io#ere#pres#act
-horacemorph.ereio_inf2#conj3io#i#pres#pass
-horacemorph.ereio_inf3#conj3io#isse#pft#act
-horacemorph.ereio_inf4#c3iopres#ere#pres#act
-horacemorph.ereio_inf5#c3iopres#i#pres#pass
+horacemorph.infinfl_ereio1#conj3io#ere#pres#act
+horacemorph.infinfl_ereio2#conj3io#i#pres#pass
+horacemorph.infinfl_ereio3#conj3io#isse#pft#act
+horacemorph.infinfl_ereio4#c3iopres#ere#pres#act
+horacemorph.infinfl_ereio5#c3iopres#i#pres#pass
 
-horacemorph.ire_inf1#conj4#ire#pres#act
-horacemorph.ire_inf2#conj4#iri#pres#pass
-horacemorph.ire_inf3#conj4#ivisse#pft#act
-horacemorph.ire_inf4#c4pres#ire#pres#act
-horacemorph.ire_inf5#c4pres#iri#pres#pass
+horacemorph.infinfl_ire1#conj4#ire#pres#act
+horacemorph.infinfl_ire2#conj4#iri#pres#pass
+horacemorph.infinfl_ire3#conj4#ivisse#pft#act
+horacemorph.infinfl_ire4#c4pres#ire#pres#act
+horacemorph.infinfl_ire5#c4pres#iri#pres#pass
 
-horacemorph.pft_inf1#pftact#isse#pft#act
+horacemorph.infinfl_pft1#pftact#isse#pft#act

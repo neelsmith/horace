@@ -1,36 +1,36 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
-horacemorph.irrpquis1#ls.n40242#quis#masc#nom#sg
-horacemorph.irrpquis2#ls.n40242#cuius#masc#gen#sg
-horacemorph.irrpquis3#ls.n40242#cui#masc#dat#sg
-horacemorph.irrpquis4#ls.n40242#quem#masc#acc#sg
-horacemorph.irrpquis5#ls.n40242#quo#masc#abl#sg
+horacemorph.irreginfl_quis1#ls.n40242#quis#masc#nom#sg
+horacemorph.irreginfl_quis2#ls.n40242#cuius#masc#gen#sg
+horacemorph.irreginfl_quis3#ls.n40242#cui#masc#dat#sg
+horacemorph.irreginfl_quis4#ls.n40242#quem#masc#acc#sg
+horacemorph.irreginfl_quis5#ls.n40242#quo#masc#abl#sg
 
-horacemorph.irrpquis6#ls.n40242#qui#masc#nom#pl
-horacemorph.irrpquis7#ls.n40242#quorum#masc#gen#pl
-horacemorph.irrpquis8#ls.n40242#quibus#masc#dat#pl
-horacemorph.irrpquis9#ls.n40242#quos#masc#acc#pl
-horacemorph.irrpquis10#ls.n40242#quibus#masc#abl#pl
+horacemorph.irreginfl_quis6#ls.n40242#qui#masc#nom#pl
+horacemorph.irreginfl_quis7#ls.n40242#quorum#masc#gen#pl
+horacemorph.irreginfl_quis8#ls.n40242#quibus#masc#dat#pl
+horacemorph.irreginfl_quis9#ls.n40242#quos#masc#acc#pl
+horacemorph.irreginfl_quis10#ls.n40242#quibus#masc#abl#pl
 
-horacemorph.irrpquis11#ls.n40242#quis#fem#nom#sg
-horacemorph.irrpquis12#ls.n40242#cuius#fem#gen#sg
-horacemorph.irrpquis13#ls.n40242#cui#fem#dat#sg
-horacemorph.irrpquis14#ls.n40242#quem#fem#acc#sg
-horacemorph.irrpquis15#ls.n40242#quo#fem#abl#sg
+horacemorph.irreginfl_quis11#ls.n40242#quis#fem#nom#sg
+horacemorph.irreginfl_quis12#ls.n40242#cuius#fem#gen#sg
+horacemorph.irreginfl_quis13#ls.n40242#cui#fem#dat#sg
+horacemorph.irreginfl_quis14#ls.n40242#quem#fem#acc#sg
+horacemorph.irreginfl_quis15#ls.n40242#quo#fem#abl#sg
 
-horacemorph.irrpquis16#ls.n40242#quae#fem#nom#pl
-horacemorph.irrpquis17#ls.n40242#quarum#fem#gen#pl
-horacemorph.irrpquis18#ls.n40242#quibus#fem#dat#pl
-horacemorph.irrpquis19#ls.n40242#quas#fem#acc#pl
-horacemorph.irrpquis20#ls.n40242#quibus#fem#abl#pl
+horacemorph.irreginfl_quis16#ls.n40242#quae#fem#nom#pl
+horacemorph.irreginfl_quis17#ls.n40242#quarum#fem#gen#pl
+horacemorph.irreginfl_quis18#ls.n40242#quibus#fem#dat#pl
+horacemorph.irreginfl_quis19#ls.n40242#quas#fem#acc#pl
+horacemorph.irreginfl_quis20#ls.n40242#quibus#fem#abl#pl
 
-horacemorph.irrpquis21#ls.n40242#quid#neut#nom#sg
-horacemorph.irrpquis22#ls.n40242#cuius#neut#gen#sg
-horacemorph.irrpquis23#ls.n40242#cui#neut#dat#sg
-horacemorph.irrpquis24#ls.n40242#quid#neut#acc#sg
-horacemorph.irrpquis25#ls.n40242#quo#neut#abl#sg
+horacemorph.irreginfl_quis21#ls.n40242#quid#neut#nom#sg
+horacemorph.irreginfl_quis22#ls.n40242#cuius#neut#gen#sg
+horacemorph.irreginfl_quis23#ls.n40242#cui#neut#dat#sg
+horacemorph.irreginfl_quis24#ls.n40242#quid#neut#acc#sg
+horacemorph.irreginfl_quis25#ls.n40242#quo#neut#abl#sg
 
-horacemorph.irrpquis26#ls.n40242#quae#neut#nom#pl
-horacemorph.irrpquis27#ls.n40242#quorum#neut#gen#pl
-horacemorph.irrpquis28#ls.n40242#quibus#neut#dat#pl
-horacemorph.irrpquis29#ls.n40242#quae#neut#acc#pl
-horacemorph.irrpquis30#ls.n40242#quibus#neut#abl#pl
+horacemorph.irreginfl_quis26#ls.n40242#quae#neut#nom#pl
+horacemorph.irreginfl_quis27#ls.n40242#quorum#neut#gen#pl
+horacemorph.irreginfl_quis28#ls.n40242#quibus#neut#dat#pl
+horacemorph.irreginfl_quis29#ls.n40242#quae#neut#acc#pl
+horacemorph.irreginfl_quis30#ls.n40242#quibus#neut#abl#pl
