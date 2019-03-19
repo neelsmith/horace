@@ -1,0 +1,14 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
+
+horacemacmorph.nouninfl_er_ri1#er_ri#er#masc#nom#sg
+horacemacmorph.nouninfl_er_ri2#er_ri#rī#masc#gen#sg
+horacemacmorph.nouninfl_er_ri3#er_ri#rō#masc#dat#sg
+horacemacmorph.nouninfl_er_ri4#er_ri#rum#masc#acc#sg
+horacemacmorph.nouninfl_er_ri#er_ri#rō#masc#abl#sg
+horacemacmorph.nouninfl_er_ri6#er_ri#rī#masc#nom#pl
+horacemacmorph.nouninfl_er_ri7#er_ri#rōrum#masc#gen#pl
+horacemacmorph.nouninfl_er_ri8#er_ri#rīs#masc#dat#pl
+horacemacmorph.nouninfl_er_ri9#er_ri#rōs#masc#acc#pl
+horacemacmorph.nouninfl_er_ri10#er_ri#rīs#masc#abl#pl
+horacemacmorph.nouninfl_er_ri11#er_ri#er#masc#voc#sg
+horacemacmorph.nouninfl_er_ri12#er_ri#rī#masc#voc#pl
