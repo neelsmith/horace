@@ -17,7 +17,7 @@ horacemacmorph.verbinfl_conj1pft10#conj1#āverimus#1st#pl#pft#subj#act
 horacemacmorph.verbinfl_conj1pft11#conj1#āveritis#2nd#pl#pft#subj#act
 horacemacmorph.verbinfl_conj1pft12#conj1#āverint#3rd#pl#pft#subj#act
 
-horacemacmorph.verbinfl_pftactpft1#pftact#ī#1st#sg#pft#indic#act
+horacemacmorph.verbinfl_pftactpft1#pftact#i#1st#sg#pft#indic#act
 horacemacmorph.verbinfl_pftactpft2#pftact#istī#2nd#sg#pft#indic#act
 horacemacmorph.verbinfl_pftactpft3#pftact#it#3rd#sg#pft#indic#act
 horacemacmorph.verbinfl_pftactpft4#pftact#imus#1st#pl#pft#indic#act
@@ -33,7 +33,7 @@ horacemacmorph.verbinfl_pftactpft11#pftact#eristis#2nd#pl#pft#subj#act
 horacemacmorph.verbinfl_pftactpft12#pftact#erint#3rd#pl#pft#subj#act
 
 
-horacemacmorph.verbinfl_conj3iopft1#conj3io#ī#1st#sg#pft#indic#act
+horacemacmorph.verbinfl_conj3iopft1#conj3io#i#1st#sg#pft#indic#act
 horacemacmorph.verbinfl_conj3iopft2#conj3io#istī#2nd#sg#pft#indic#act
 horacemacmorph.verbinfl_conj3iopft3#conj3io#it#3rd#sg#pft#indic#act
 horacemacmorph.verbinfl_conj3iopft4#conj3io#imus#1st#pl#pft#indic#act
@@ -48,7 +48,7 @@ horacemacmorph.verbinfl_conj3iopft10#conj3io#erimus#1st#pl#pft#subj#act
 horacemacmorph.verbinfl_conj3iopft11#conj3io#eristis#2nd#pl#pft#subj#act
 horacemacmorph.verbinfl_conj3iopft12#conj3io#erint#3rd#pl#pft#subj#act
 
-horacemacmorph.verbinfl_conj3pft1#conj3#ī#1st#sg#pft#indic#act
+horacemacmorph.verbinfl_conj3pft1#conj3#i#1st#sg#pft#indic#act
 horacemacmorph.verbinfl_conj3pft2#conj3#istī#2nd#sg#pft#indic#act
 horacemacmorph.verbinfl_conj3pft3#conj3#it#3rd#sg#pft#indic#act
 horacemacmorph.verbinfl_conj3pft4#conj3#imus#1st#pl#pft#indic#act
